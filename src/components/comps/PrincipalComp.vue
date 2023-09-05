@@ -123,6 +123,7 @@ export default {
     height: 100%;
     padding: 3em;
     display: flex;
+    gap: 1em;
     align-items: center;
     justify-content: space-between;
 }
@@ -188,6 +189,12 @@ export default {
         width: 150px;
         height: auto;
         aspect-ratio: 1;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .container {
+        padding: 1em;
     }
 }
 </style>
