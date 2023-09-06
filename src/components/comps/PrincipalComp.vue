@@ -128,6 +128,10 @@ export default {
     justify-content: space-between;
 }
 
+.container_boxs{
+    width: 100%;
+}
+
 .award_price {
     background-image: none;
     background-repeat: no-repeat;
