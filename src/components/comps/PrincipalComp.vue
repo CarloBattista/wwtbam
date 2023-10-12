@@ -107,7 +107,7 @@ export default {
 }
 
 .logo {
-    background-image: url("https://file.notion.so/f/s/0b8e1102-7ff4-4870-a39e-ef625253af75/logo.png?id=d1419994-97c4-4690-b349-03db5eada926&table=block&spaceId=4c49ff97-016b-4669-8de5-4479dd1a86e1&expirationTimestamp=1694016000000&signature=qCqtuaF6tnk0KHGugd9xh7oH8Dk-_rYWAHwam7Ycw7Q&downloadName=logo.png");
+    background-image: url("_resources/imgs/logo.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
